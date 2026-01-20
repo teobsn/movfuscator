@@ -2,9 +2,10 @@
 
 ## Membrii echipei
 
+- Apostu Cleopatra
 - Bostan Codruț-Teodor
-- Apostol Cleopatra
 - Necșoiu Horia
+- Tomescu Ciprian
 
 ## Descriere
 
